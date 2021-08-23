@@ -1,7 +1,7 @@
 # Xamarin / MAUI Indie Apps
 Curated list of paid apps made by Xamarin Developers
 
-Help your fellow app developers by downloading the app, **giving an app store review**, or even product feedback.
+Getting people to notice your app is HARD. Show some love for these developers by downloading the app, **giving an app store review**, or even product feedback.
 
 ## Remotime: Freelancer Invoicing
 Simply manage your tasks, time and invoices
