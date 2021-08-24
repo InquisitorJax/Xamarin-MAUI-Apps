@@ -1,5 +1,5 @@
 # Xamarin / MAUI Indie Apps
-Curated list of apps made by Xamarin Developers
+Curated list of apps made by Independent Xamarin Developers
 
 Getting people to notice your app is HARD. Show some love for these developers by downloading the app, **giving an app store review**, or even product feedback.
 
