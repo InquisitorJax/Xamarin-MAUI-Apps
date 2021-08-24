@@ -3,6 +3,8 @@ Curated list of paid apps made by Xamarin Developers
 
 Getting people to notice your app is HARD. Show some love for these developers by downloading the app, **giving an app store review**, or even product feedback.
 
+Want your app listed here? Submit a PR, and show some love by submitting app store reviews for the other apps listed here ;)
+
 ## Remotime: Freelancer Invoicing
 Simply manage your tasks, time and invoices
 
