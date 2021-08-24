@@ -21,3 +21,15 @@ Simply manage your tasks, time and invoices
 ![tasks](https://play-lh.googleusercontent.com/7NT7I3hX_wWl9zqPFV-1arKqA499cm1qPM8s-UEBAF9vVU3mZ4PzG5scRUIsrnr1MCo=w720-h310-rw)
 ![invoicing](https://play-lh.googleusercontent.com/au7tSbJmnYf8Sp9wlZeCF4DUq34Cd70MEjkvB-9XeLjVEh8BpH5zOs4EBqviqWb2RA=w720-h310-rw)
 
+## Catch Logger
+Gone Fishing? Track all your fish catches
+
+##### Links
+- [Website](https://www.catchlogger.app/)
+- [iOS App Store](https://apps.apple.com/us/app/catch-logger/id1526736775?itsct=apps_box_badge&itscg=30200)
+- [Google Play Store](https://play.google.com/store/apps/details?id=se.hindrikes.catchlog&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) 
+- [Made by Daniel](https://twitter.com/hindrikes)
+
+##### Video / Screenshots
+
+![image1](https://play-lh.googleusercontent.com/7yPLTq9tpfgWz-rhlahuCU_kD5dSin-HQcCZouyr_ZmsF6K3AJYOYLeZjr5OjgvD1l0=w720-h310-rw) ![image2](https://play-lh.googleusercontent.com/4itRKe26_EEdNB_G7XAwjdGJWWUi2sG6YybFn4nudDs4QApEgtMFw08cm6dqP3tnU4A=w720-h310-rw) ![image3](https://play-lh.googleusercontent.com/A8N7HFkAAmoY4DeKhkR94snjKoGQGDlwJ_HJpLizYrIfmvrz7fzAg3rN_veZj8LU3oA=w720-h310-rw) 
