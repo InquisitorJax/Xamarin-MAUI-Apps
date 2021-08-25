@@ -46,7 +46,7 @@ Your gateway to the world of thousands of TV shows. Keep updated with latest, up
 - [Made by Naweed](http://www.naweed.com/)
 
 ##### Video / Screenshots
-![image1](https://play-lh.googleusercontent.com/Jnq6xEfo5nMZwEXu9K3fyON_CBLqnFT0Dz_vmPdC8YCz1A8YxS3h6w9zzWN2ZflfMLV8=w720-h310-rw)
+
 ![image2](https://play-lh.googleusercontent.com/ufs0eJ4PNTLKsqc-qvhs87V2pR-7twFDNSKEK5tH4Bm8ld6ulm3aje-udNBIrzLQdu8=w720-h310-rw)
 ![image3](https://play-lh.googleusercontent.com/3pTcoK6nTAE6aj69pUTTfsh7zZq0nTjJZ0n5UhBWfzmlddniCWWZmF_sq14rrqwdkGg=w720-h310-rw)
 ![image4](https://play-lh.googleusercontent.com/TdIUmGDU-7q6cFnvMk8GVlzn785poAowIU_YR779sE3390n0An7eSMglQFPeR13SD_U=w720-h310-rw)
