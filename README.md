@@ -70,3 +70,22 @@ Your gateway to the world of thousands of TV shows. Keep updated with latest, up
 
 ![image2](https://play-lh.googleusercontent.com/ufs0eJ4PNTLKsqc-qvhs87V2pR-7twFDNSKEK5tH4Bm8ld6ulm3aje-udNBIrzLQdu8=w720-h310-rw)  ![image3](https://play-lh.googleusercontent.com/3pTcoK6nTAE6aj69pUTTfsh7zZq0nTjJZ0n5UhBWfzmlddniCWWZmF_sq14rrqwdkGg=w720-h310-rw)  ![image4](https://play-lh.googleusercontent.com/TdIUmGDU-7q6cFnvMk8GVlzn785poAowIU_YR779sE3390n0An7eSMglQFPeR13SD_U=w720-h310-rw)
 
+## Super Wordsearch
+
+The cool new addictive WordSearch game with 300+ levevs, and infinite fun with your friends.
+
+##### Links
+
+- [Website](https://www.superwordsearch.com)
+- [iOS App Store](https://apps.apple.com/us/app/super-wordsearch/id1556320007)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.tinysoft.superwordsearch) 
+- [Made by Shaun](https://twitter.com/Bijington)
+
+##### Video / Screenshots
+
+[![Super Wordsearch](https://img.youtube.com/vi/Q2mH_R41ltk/0.jpg)](https://www.youtube.com/watch?v=Q2mH_R41ltk)
+
+![home](Images/SuperWordsearch/home.png)
+![levels](Images/SuperWordsearch/levels.png)
+![level](Images/SuperWordsearch/level.png)
+![complete](Images/SuperWordsearch/complete.png)
