@@ -22,7 +22,7 @@ Simply manage your tasks, time and invoices
 - [Made by Malcolm](https://twitter.com/InquisitorJax)
 
 ##### Video / Screenshots
-[![video](https://i9.ytimg.com/vi/c_VCE8bbwLw/mq3.jpg)](https://www.youtube.com/watch?v=c_VCE8bbwLw "Remotime")
+[![video](https://i9.ytimg.com/vi/c_VCE8bbwLw/mq3.jpg?sqp=CLSBmIkG&rs=AOn4CLBY1-iOhgsFWArodnbUUhBvtcPilQ)](https://www.youtube.com/watch?v=c_VCE8bbwLw "Remotime")
 
 ![intro](https://play-lh.googleusercontent.com/mZ70g2UqIiXYwZLHzkpE-ZLiKB2a7-ObcCowPYMSU_RbreTbTBk_rrnt9ctl-Tj9NII=w720-h310-rw)
 ![time](https://play-lh.googleusercontent.com/WMVVD_9qVfwAnVQCJ-Tn_5r2q0HZByecfPCnoZh593eVE30S6fqU10SaUlM41rah7JlN=w720-h310-rw)
