@@ -35,3 +35,19 @@ Gone Fishing? Track all your fish catches
 ##### Video / Screenshots
 
 ![image1](https://play-lh.googleusercontent.com/7yPLTq9tpfgWz-rhlahuCU_kD5dSin-HQcCZouyr_ZmsF6K3AJYOYLeZjr5OjgvD1l0=w720-h310-rw) ![image2](https://play-lh.googleusercontent.com/4itRKe26_EEdNB_G7XAwjdGJWWUi2sG6YybFn4nudDs4QApEgtMFw08cm6dqP3tnU4A=w720-h310-rw) ![image3](https://play-lh.googleusercontent.com/A8N7HFkAAmoY4DeKhkR94snjKoGQGDlwJ_HJpLizYrIfmvrz7fzAg3rN_veZj8LU3oA=w720-h310-rw) 
+
+## Series Watchlist
+Your gateway to the world of thousands of TV shows. Keep updated with latest, upcoming and trending series, search for TV shows, watch trailers, keep track of the shows you want to watch.
+
+##### Links
+- [iOS App Store](https://apps.apple.com/us/app/series-watchlist/id1314148730)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.xgeno.serieswatchlist) 
+- [Twitter](https://twitter.com/xgeno)
+- [Made by Naweed](http://www.naweed.com/)
+
+##### Video / Screenshots
+![image1](https://play-lh.googleusercontent.com/Jnq6xEfo5nMZwEXu9K3fyON_CBLqnFT0Dz_vmPdC8YCz1A8YxS3h6w9zzWN2ZflfMLV8=w720-h310-rw)
+![image2](https://play-lh.googleusercontent.com/ufs0eJ4PNTLKsqc-qvhs87V2pR-7twFDNSKEK5tH4Bm8ld6ulm3aje-udNBIrzLQdu8=w720-h310-rw)
+![image3](https://play-lh.googleusercontent.com/3pTcoK6nTAE6aj69pUTTfsh7zZq0nTjJZ0n5UhBWfzmlddniCWWZmF_sq14rrqwdkGg=w720-h310-rw)
+![image4](https://play-lh.googleusercontent.com/TdIUmGDU-7q6cFnvMk8GVlzn785poAowIU_YR779sE3390n0An7eSMglQFPeR13SD_U=w720-h310-rw)
+
