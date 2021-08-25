@@ -11,6 +11,8 @@ Submission notes:
 - make sure your images fit in a single row
 - take a few minutes to submit some app store reviews for other apps listed here
 
+Chat with other Xamarin indie-devs in the [slack channel](https://xamarinchat.slack.com/archives/C02C88N50KU)
+
 ## Remotime: Freelancer Invoicing
 Simply manage your tasks, time and invoices
 
