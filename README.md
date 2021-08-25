@@ -49,7 +49,7 @@ Internet Radio. Cute, simple, beautyful.
 
 ##### Video / Screenshots
 
-<img src="Images/Cuterdio/1.png" alt="image-20210825070346415" style="zoom:25%;" />  <img src="Images/Cuterdio/2.png" alt="image-20210825070412351" style="zoom:25%;" />  <img src="Images/Cuterdio/3.png" alt="image-20210825070454232" style="zoom:25%;" />  <img src="Images/Cuterdio/4.png" alt="image-20210825070511203" style="zoom:25%;" />
+![Cuterdio Clean UI](Images/Cuterdio/1.png)  ![Cuterdio History](Images/Cuterdio/2.png)  ![Cuterdio Carplay](Images/Cuterdio/3.png)  ![Cuterdio Actions](Images/Cuterdio/4.png)
 
 ## Series Watchlist
 Your gateway to the world of thousands of TV shows. Keep updated with latest, upcoming and trending series, search for TV shows, watch trailers, keep track of the shows you want to watch.
@@ -62,7 +62,5 @@ Your gateway to the world of thousands of TV shows. Keep updated with latest, up
 
 ##### Video / Screenshots
 
-![image2](https://play-lh.googleusercontent.com/ufs0eJ4PNTLKsqc-qvhs87V2pR-7twFDNSKEK5tH4Bm8ld6ulm3aje-udNBIrzLQdu8=w720-h310-rw)
-![image3](https://play-lh.googleusercontent.com/3pTcoK6nTAE6aj69pUTTfsh7zZq0nTjJZ0n5UhBWfzmlddniCWWZmF_sq14rrqwdkGg=w720-h310-rw)
-![image4](https://play-lh.googleusercontent.com/TdIUmGDU-7q6cFnvMk8GVlzn785poAowIU_YR779sE3390n0An7eSMglQFPeR13SD_U=w720-h310-rw)
+![image2](https://play-lh.googleusercontent.com/ufs0eJ4PNTLKsqc-qvhs87V2pR-7twFDNSKEK5tH4Bm8ld6ulm3aje-udNBIrzLQdu8=w720-h310-rw)  ![image3](https://play-lh.googleusercontent.com/3pTcoK6nTAE6aj69pUTTfsh7zZq0nTjJZ0n5UhBWfzmlddniCWWZmF_sq14rrqwdkGg=w720-h310-rw)  ![image4](https://play-lh.googleusercontent.com/TdIUmGDU-7q6cFnvMk8GVlzn785poAowIU_YR779sE3390n0An7eSMglQFPeR13SD_U=w720-h310-rw)
 
