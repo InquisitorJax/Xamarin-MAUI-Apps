@@ -35,3 +35,20 @@ Gone Fishing? Track all your fish catches
 ##### Video / Screenshots
 
 ![image1](https://play-lh.googleusercontent.com/7yPLTq9tpfgWz-rhlahuCU_kD5dSin-HQcCZouyr_ZmsF6K3AJYOYLeZjr5OjgvD1l0=w720-h310-rw) ![image2](https://play-lh.googleusercontent.com/4itRKe26_EEdNB_G7XAwjdGJWWUi2sG6YybFn4nudDs4QApEgtMFw08cm6dqP3tnU4A=w720-h310-rw) ![image3](https://play-lh.googleusercontent.com/A8N7HFkAAmoY4DeKhkR94snjKoGQGDlwJ_HJpLizYrIfmvrz7fzAg3rN_veZj8LU3oA=w720-h310-rw) 
+
+
+
+## Cuterdio
+
+Internet Radio. Cute, simple, beautyful.
+
+##### Links
+
+- [Website](https://cuterdio.com)
+- [iOS App Store](https://apps.apple.com/app/cuterdio-internet-radio-app/id1489513385)
+- [macOS App Store](https://apps.apple.com/app/cuterdio-internet-radio-app/id1489513385)
+- [Made by Johann](https://suplanus.de)
+
+##### Video / Screenshots
+
+<img src="Images/Cuterdio/1.png" alt="image-20210825070346415" style="zoom:25%;" />  <img src="Images/Cuterdio/2.png" alt="image-20210825070412351" style="zoom:25%;" />  <img src="Images/Cuterdio/3.png" alt="image-20210825070454232" style="zoom:25%;" />  <img src="Images/Cuterdio/4.png" alt="image-20210825070511203" style="zoom:25%;" />
