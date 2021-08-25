@@ -9,6 +9,7 @@ Submission notes:
 - one app per developer
 - add to the bottom of the file
 - make sure your images fit in a single row
+- take a few minutes to submit some app store reviews for other apps listed here
 
 ## Remotime: Freelancer Invoicing
 Simply manage your tasks, time and invoices
