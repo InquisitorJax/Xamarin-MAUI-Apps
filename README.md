@@ -13,6 +13,23 @@ Submission notes:
 
 Chat with other Xamarin indie-devs in the [slack channel](https://xamarinchat.slack.com/archives/C02C88N50KU)
 
+
+## Real estate simulator: instantly know if your investment is worth it
+Be sure that your real estate investment has a good return. For now, the app is specifically targeted to french investors and fiscal context.
+
+##### Links
+- [Website](https://calculs-renta-immo.umso.co/)
+- [iOS App Store](https://apps.apple.com/us/app/calculs-rentabilit%C3%A9-locative/id1540486167)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.malikberkane.renta.immo&gl=FR) 
+- [Made by Malik](https://twitter.com/malik_berkane)
+
+##### Video / Screenshots
+
+![img1](https://play-lh.googleusercontent.com/0cAcMfbLundFs40ZBBCnrQexCKuwV1Lji8z0EDb3gTOZS7-A3fpcLEKLPWLxPO5fIA=w720-h310-rw)
+![img2](https://play-lh.googleusercontent.com/JKm8oh6krFRsW7FdgR3Y1hXFU1GAS7EDYLRYzB7XKW7M48B1MsrmCCfNSiRwJsVdmYpT=w720-h310-rw)
+![img3](https://play-lh.googleusercontent.com/1foJy92oaVgAxClaJEywgwH9DXiHBqPd0MgSiiHZaihbw2HGEVnidF1N_b6Ot9or4g=w720-h310-rw)
+![img4](https://play-lh.googleusercontent.com/jVNT4UcibAbafgz-HKkQtNdEu-Wnz9bj__GRQpeoYfFycMQpS5PV_HlSdJuy5k3Mg0E=w720-h310-rw)
+
 ## Remotime: Freelancer Invoicing
 Simply manage your tasks, time and invoices
 
