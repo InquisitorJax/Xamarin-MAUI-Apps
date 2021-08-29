@@ -108,3 +108,19 @@ Be sure that your real estate investment has a good return. For now, the app is 
 ![img2](https://play-lh.googleusercontent.com/JKm8oh6krFRsW7FdgR3Y1hXFU1GAS7EDYLRYzB7XKW7M48B1MsrmCCfNSiRwJsVdmYpT=w720-h310-rw)
 ![img3](https://play-lh.googleusercontent.com/1foJy92oaVgAxClaJEywgwH9DXiHBqPd0MgSiiHZaihbw2HGEVnidF1N_b6Ot9or4g=w720-h310-rw)
 ![img4](https://play-lh.googleusercontent.com/jVNT4UcibAbafgz-HKkQtNdEu-Wnz9bj__GRQpeoYfFycMQpS5PV_HlSdJuy5k3Mg0E=w720-h310-rw)
+
+## Weekly Xamarin
+A weekly round up of all the latest Xamarin news for developers. 
+
+##### Links
+- [Website](https://weeklyxamarin.github.io/website/)
+- [iOS App Store](https://apps.apple.com/us/app/weekly-xamarin/id1563006723)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.weeklyxamarin.mobile) 
+- Made by [Kym](https://twitter.com/kphillpotts) and [Lachlan](https://twitter.com/lachlanwgordon)
+
+##### Video / Screenshots
+
+![img1](https://play-lh.googleusercontent.com/B1J_ZjVHUlzz9xlZV7d2tpC2BqFVyo8Pv7ePxbrzLzhdLCIfN7cOH3OXll7y4oycJnM=w720-h310-rw)
+![img2](https://play-lh.googleusercontent.com/wiD0NbuAOOl5tZf4cZtVJ88oa6Y_OE1r5-a1ZrDrGYUvJh0RGISiMfLmAUOf-R9eWg=w720-h310-rw)
+![img3](https://play-lh.googleusercontent.com/Y5oevl2ZFF21Ck7_ZfFF8lOA-sjl3NmYp0mqOLVuXhAismqb8B98VewSs0rLWI8G2Q=w720-h310-rw)
+![img4](https://play-lh.googleusercontent.com/UyMm63-fhV1DmUis04pszveb5cxScXJRv2yH1UD9GWgIbU8-1SqZZDVc8_LD5a92hCM=w720-h310-rw)
