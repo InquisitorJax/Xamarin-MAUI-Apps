@@ -124,3 +124,24 @@ A weekly round up of all the latest Xamarin news for developers.
 ![img2](https://play-lh.googleusercontent.com/wiD0NbuAOOl5tZf4cZtVJ88oa6Y_OE1r5-a1ZrDrGYUvJh0RGISiMfLmAUOf-R9eWg=w720-h310-rw)
 ![img3](https://play-lh.googleusercontent.com/Y5oevl2ZFF21Ck7_ZfFF8lOA-sjl3NmYp0mqOLVuXhAismqb8B98VewSs0rLWI8G2Q=w720-h310-rw)
 ![img4](https://play-lh.googleusercontent.com/UyMm63-fhV1DmUis04pszveb5cxScXJRv2yH1UD9GWgIbU8-1SqZZDVc8_LD5a92hCM=w720-h310-rw)
+
+## LiLo.Lite
+A real-time cryptocurrency (crypto) price tracking application. It provides a quick and easy way to watch the top crypto currency information and charts. With extremely low battery usage, you can leave the application running in the background and have crypto information available right at your fingertips.
+
+##### Links
+- [WebSite](https://www.internetwideworld.com/lilolite)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.internetwideworld.lilo.lite&pcampaignid=github)
+- Made by [George Leithead](https://twitter.com/GeorgeLeithead) support account [LiLo](https://twitter.com/LiLoMobileApp)
+
+##### Video / Screenshots
+![Splash Screen](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_SplashScreen.png)
+![Home Page - Light theme - Portrait](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_HomeLight.png)
+![Home Page - Dark theme - Portrait](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_HomeDark.png)
+![Home page - Light theme - Favourites](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_HomeLight_Favourites.png)
+![Chart page - Light theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_ChartLight.png)
+![Chart page - Dark theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_ChartDark.png)
+![Settings page - Light theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_SettingsLight.png)
+![Settings page - Dark theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_SettingsDark.png)
+![Favourites page - Light theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_FavouritesLight.png)
+![Home Page - Light theme - Tablet 7in with Pie 9.0 - API 28](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Tablet7_HomeLight.png)
+![Home Page - Light theme - Tablet 10.1in with Pie 9.0 - API 28](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Tablet10_HomeLight.png)
