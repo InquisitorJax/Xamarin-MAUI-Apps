@@ -134,14 +134,7 @@ A real-time cryptocurrency (crypto) price tracking application. It provides a qu
 - Made by [George Leithead](https://twitter.com/GeorgeLeithead) support account [LiLo](https://twitter.com/LiLoMobileApp)
 
 ##### Video / Screenshots
-![Splash Screen](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_SplashScreen.png)
-![Home Page - Light theme - Portrait](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_HomeLight.png)
-![Home Page - Dark theme - Portrait](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_HomeDark.png)
-![Home page - Light theme - Favourites](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_HomeLight_Favourites.png)
-![Chart page - Light theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_ChartLight.png)
-![Chart page - Dark theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_ChartDark.png)
-![Settings page - Light theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_SettingsLight.png)
-![Settings page - Dark theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_SettingsDark.png)
-![Favourites page - Light theme](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Phone_FavouritesLight.png)
-![Home Page - Light theme - Tablet 7in with Pie 9.0 - API 28](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Tablet7_HomeLight.png)
-![Home Page - Light theme - Tablet 10.1in with Pie 9.0 - API 28](https://github.com/GeorgeLeithead/LiLo.Lite/blob/master/Screenshots/Tablet10_HomeLight.png)
+![Splash Screen](https://play-lh.googleusercontent.com/UocetXUITtX_x4ebU4ziUH2cCeFfehKBILhKypk43YsCvZWATy87MpEzj-VzHGzR7bS-=w720-h310-rw)
+![Home Page - Light theme - Portrait](https://play-lh.googleusercontent.com/gmeMUeQB85kTCdMRs4DbVBH6vKRcD-k5HlA37xLHV_xyXKuZp2mXiSogT-F54pmLePE=w720-h310-rw)
+![Chart page - Light theme](https://play-lh.googleusercontent.com/6fKspX1MRmLBIUuR-Sx9LMj30vmJQzPYoKo6lFa9oyvsBtev1f4bo84SpW8d22OVosU=w720-h310-rw)
+![Settings page - Light theme](https://play-lh.googleusercontent.com/yokvptXYZkwWGiuw_QoKNpJ7VYBSWeRg_uu29E71BczPRH6FWjYDTGrzPFh7VdbtLA=w720-h310-rw)
