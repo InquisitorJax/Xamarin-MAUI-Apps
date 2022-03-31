@@ -13,24 +13,6 @@ Submission checklist:
 
 Chat with other Xamarin indie-devs in the [slack channel](https://xamarinchat.slack.com/archives/C02C88N50KU)
 
-
-
-## Vocably - A fun way to improve your vocabulary
-Enrich your vocabulary by playing this fun game. Vocably allows you to play multiple words in a day. Learn the meanings of new words, show off your progress to your friends, and compete against others in the world anonymously.
-
-Vocably features 2,700 words to play for and learn. It is absolutely free; no fees, no advertisements, and no data collection from you or your device.
-
-##### Links
-- [Website](https://vocably-game.com/) 
-- [iOS App Store](https://apps.apple.com/us/app/vocably/id1605208532)
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.xgeno.wordly) 
-- [Twitter](https://twitter.com/xgeno)
-- [Made by Naweed](http://blogs.xgenoapps.com/)
-
-##### Video / Screenshots
-
-![intro](https://is4-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f5/a1/d7/f5a1d75f-afdb-1d21-a292-7e34efb0bca2/9448c563-267f-486c-ba6b-88804eda0260_screenshot1.jpeg/180x0w.jpg)  ![game](https://is3-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/10/9c/0a/109c0a66-a534-6152-2fbb-bfae9ee17be1/bbe3b674-0aba-4cc8-a552-fc2cac3da2fc_screenshot2.jpeg/180x0w.jpg)  ![stats](https://is5-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c3/5d/2d/c35d2d63-38ca-3ae9-a8f0-0a553a54cba5/11bd8450-b8fc-4814-bbe8-5aae2c9e39fc_screenshot4.jpeg/180x0w.jpg)  ![rules](https://is5-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5b/c9/0e/5bc90e60-a0b4-c903-98ba-e34e15e92110/cfa250b8-29ce-483a-a7e7-545ae947d75e_screenshot5.jpeg/180x0w.jpg)
-
 ## Remotime: Freelancer Invoicing
 Simply manage your tasks, time and invoices
 
@@ -76,6 +58,22 @@ Internet Radio. Cute, simple, beautiful.
 ##### Video / Screenshots
 
 ![Cuterdio Clean UI](Images/Cuterdio/1.png)  ![Cuterdio History](Images/Cuterdio/2.png)  ![Cuterdio Carplay](Images/Cuterdio/3.png)  ![Cuterdio Actions](Images/Cuterdio/4.png)
+
+## Vocably - A fun way to improve your vocabulary
+Enrich your vocabulary by playing this fun game. Vocably allows you to play multiple words in a day. Learn the meanings of new words, show off your progress to your friends, and compete against others in the world anonymously.
+
+Vocably features 2,700 words to play for and learn. It is absolutely free; no fees, no advertisements, and no data collection from you or your device.
+
+##### Links
+- [Website](https://vocably-game.com/) 
+- [iOS App Store](https://apps.apple.com/us/app/vocably/id1605208532)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.xgeno.wordly) 
+- [Twitter](https://twitter.com/xgeno)
+- [Made by Naweed](http://blogs.xgenoapps.com/)
+
+##### Video / Screenshots
+
+![intro](https://is4-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f5/a1/d7/f5a1d75f-afdb-1d21-a292-7e34efb0bca2/9448c563-267f-486c-ba6b-88804eda0260_screenshot1.jpeg/180x0w.jpg)  ![game](https://is3-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/10/9c/0a/109c0a66-a534-6152-2fbb-bfae9ee17be1/bbe3b674-0aba-4cc8-a552-fc2cac3da2fc_screenshot2.jpeg/180x0w.jpg)  ![stats](https://is5-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c3/5d/2d/c35d2d63-38ca-3ae9-a8f0-0a553a54cba5/11bd8450-b8fc-4814-bbe8-5aae2c9e39fc_screenshot4.jpeg/180x0w.jpg)  ![rules](https://is5-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5b/c9/0e/5bc90e60-a0b4-c903-98ba-e34e15e92110/cfa250b8-29ce-483a-a7e7-545ae947d75e_screenshot5.jpeg/180x0w.jpg)
 
 ## Series Watchlist
 Your gateway to the world of thousands of TV shows. Keep updated with latest, upcoming and trending series, search for TV shows, watch trailers, keep track of the shows you want to watch.
