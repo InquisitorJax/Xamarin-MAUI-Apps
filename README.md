@@ -7,7 +7,7 @@ Want your app listed here? Submit a PR, and show some love by submitting app sto
 
 Submission checklist:
 - limited to three apps per developer
-- add to the bottom of the file
+- add to the bottom of the file (unless you have an existing submission, in which case add it where your other apps are listed)
 - make sure your images fit in a single row
 - take a few minutes to submit some app store reviews for other apps listed here
 
