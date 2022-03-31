@@ -6,7 +6,7 @@ Getting people to notice your app is HARD. Show some love for these developers b
 Want your app listed here? Submit a PR, and show some love by submitting app store reviews for the other apps listed here ;)
 
 Submission checklist:
-- three apps per developer
+- limited to three apps per developer
 - add to the bottom of the file
 - make sure your images fit in a single row
 - take a few minutes to submit some app store reviews for other apps listed here
