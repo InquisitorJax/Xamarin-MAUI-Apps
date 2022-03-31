@@ -8,7 +8,7 @@ Want your app listed here? Submit a PR, and show some love by submitting app sto
 Submission checklist:
 - limited to three apps per developer
 - add to the bottom of the file (unless you have an existing submission, in which case add it where your other apps are listed)
-- make sure your images fit in a single row
+- make sure your images fit in a single row (you can save images to the images folder at 150x324 size)
 - take a few minutes to submit some app store reviews for other apps listed here
 
 Chat with other Xamarin indie-devs in the [slack channel](https://xamarinchat.slack.com/archives/C02C88N50KU)
